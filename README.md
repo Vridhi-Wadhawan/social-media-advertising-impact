@@ -53,7 +53,7 @@ Independent variables include factors such as:
 
 These factors are examined to determine their influence on **consumer attitudes and buying behaviour**.
 
-![Consumer Perception Model](consumer-perception-model.png)
+![Consumer Perception Model](consumer-preception-model.png)
 
 The above conceptual framework shows how sponsored advertisements may influence consumer perception and ultimately buying behaviour.
 
